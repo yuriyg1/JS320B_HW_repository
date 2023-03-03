@@ -1,0 +1,55 @@
+* The name of your project
+
+  Piatto (plate in italian)
+
+* An elevator pitch (a paragraph about what your project does). Be sure to address: Who will use your project. The value that your project will provide to the end user
+
+  For my React final project I will build a restaurants finder app that lists and maps out restaurants, given a search term like 'Sushi'.
+  The user will also be required to insert a location (city or zip), and have search filter options (distance, cost, ratings).
+  The user can also create an account to store favorite placed in a list, which can also mute/delete the selections.
+  If the user presses on the list card, more detail will emerge (if Yelp API returns: more photos, menu, user reviews)
+  
+  The value of this app is a simpler version of Yelp to find food locally. 
+  If time permits I might try to implement a recommended food functionality which will look at Yelp's local restaurants that received a surge of + reviews in a short recent time.
+
+* [Wireframes](https://en.wikipedia.org/wiki/Website_wireframe) to help visualize what your project will look like. These wireframes do not have to be high-fidelity. You're free to use boxes, hand drawings, tools such as Draw.io, etc.
+  
+  See attached AppSketch.jpeg image which roughly illustrates the design and functionality of the Piatto app.
+
+* A list of dependencies you'll be using for your project (npm modules, APIs, Firebase, etc.) This list will likely change as you work on your project, but listing your dependencies will help you visualize the complexity of the project
+
+  This is an open list, but so far these are the APIs/dependencies:
+  - Yelp API
+  - Geolocation API
+  - OpenStreetMap API
+  - Bootstrap or some stlying dependency
+  - (Time Permitting) Firebase for User account, auth, data storage
+  - (Time Permitting) App automated testing
+
+* A list of tasks that need to be completed for your project
+
+    * Setup `create-react-app` Piatto
+    * Call the Yelp API and list results
+    * Store API results in React component state
+    * Call the OpenStreetMap API and map results
+    * Render React state
+    * Make the page reactive to user input 
+
+* A plan for the next 3 weeks and what you plan to accomplish each week
+
+    * Week 1 
+    - Configure the Yelp API to respond with data.json to a prompt input
+    - Make a skeleton app with map and list components
+
+    * Week 2 
+    - Mature the design and styling of the app to a semi-professional grade
+    - Implement user location retrieve/usage
+    - Implement user profile functionalities
+    - Room for debugging & overall harmonic integration of various components
+    - (Time permitting) Firebase for user auth and data storage
+
+    * Week 3 
+    - (Time permitting) More Firebase 
+    - (Time permitting) App automated testing
+    - Polish the design and any last minute debugging
+    - jk pull a all nighter scrambling to duct tape code it all up after weeks of neglect lol. (joking of course :) )
