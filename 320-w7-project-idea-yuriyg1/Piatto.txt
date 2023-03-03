@@ -34,6 +34,12 @@
     * Call the OpenStreetMap API and map results
     * Render React state
     * Make the page reactive to user input 
+	* User must give a prompt for the search field, and a location/zip. I will try to implement a 'find me' feature that uses the User's geolocation.
+	* After user submits a request, a loading screen will appear until the data is ready
+	* User will see a split screen of a map and a list of places that they could scroll down. When they hit the bottom 10 more results will appear, and so on.
+	* If a user presses on a card, the page will react by routing to another page with a similar layout with no list or map, but rather large images (from Yelp API if they exist) where maps was, and detailed data (menu, reviews) where the list used to be. The user can go back with a '<-' button or add to favorites
+	* The user can add favorite places to a list that will appear when the use icon is pressed.
+	* (if Firebase is implemented) User can create an account, sign in, and save their favorite places.
 
 * A plan for the next 3 weeks and what you plan to accomplish each week
 
