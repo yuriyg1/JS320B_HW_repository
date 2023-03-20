@@ -1,0 +1,211 @@
+[
+    {
+        "id": "EQsPI38huGryYFiQr65hxA",
+        "alias": "taco-city-belltown-seattle",
+        "name": "Taco City - Belltown",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bz85jHhVdceN10yo-_WZLA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taco-city-belltown-seattle?adjust_creative=Y_v3O9q_-vSOk25cOEjIkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y_v3O9q_-vSOk25cOEjIkQ",
+        "review_count": 12,
+        "categories": [
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 5,
+        "coordinates": {
+            "latitude": 47.613055411859754,
+            "longitude": -122.34441476630914
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "2137 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Seattle",
+            "zip_code": "98121",
+            "country": "US",
+            "state": "WA",
+            "display_address": [
+                "2137 2nd Ave",
+                "Seattle, WA 98121"
+            ]
+        },
+        "phone": "+12064414037",
+        "display_phone": "(206) 441-4037",
+        "distance": 1088.2349747980495
+    },
+    {
+        "id": "fL5N6XavtymyYNAG05c45Q",
+        "alias": "maiz-molino-seattle",
+        "name": "Maiz Molino",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E1ZeYM0hqEcpBojuASehOw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/maiz-molino-seattle?adjust_creative=Y_v3O9q_-vSOk25cOEjIkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y_v3O9q_-vSOk25cOEjIkQ",
+        "review_count": 34,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 5,
+        "coordinates": {
+            "latitude": 47.61701,
+            "longitude": -122.34326
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "2325 6th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Seattle",
+            "zip_code": "98121",
+            "country": "US",
+            "state": "WA",
+            "display_address": [
+                "2325 6th Ave",
+                "Seattle, WA 98121"
+            ]
+        },
+        "phone": "+12064026142",
+        "display_phone": "(206) 402-6142",
+        "distance": 1026.4327523036532
+    },
+    {
+        "id": "LqB_f6u3j0S5Cauc-qi6Yw",
+        "alias": "el-catrin-seattle",
+        "name": "El Catrin",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DflzMr8h2TLXwMtLP6F70w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-catrin-seattle?adjust_creative=Y_v3O9q_-vSOk25cOEjIkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y_v3O9q_-vSOk25cOEjIkQ",
+        "review_count": 85,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 5,
+        "coordinates": {
+            "latitude": 47.51604,
+            "longitude": -122.35433
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "9641 15th Ave SW",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Seattle",
+            "zip_code": "98106",
+            "country": "US",
+            "state": "WA",
+            "display_address": [
+                "9641 15th Ave SW",
+                "Ste A",
+                "Seattle, WA 98106"
+            ]
+        },
+        "phone": "+12067086341",
+        "display_phone": "(206) 708-6341",
+        "distance": 11080.536438521844
+    },
+    {
+        "id": "YBtoc2Q-n68Nn167GhR0NQ",
+        "alias": "xochi-issaquah-5",
+        "name": "Xochi",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fZ_t1Gkmhhyut--8XmbumA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xochi-issaquah-5?adjust_creative=Y_v3O9q_-vSOk25cOEjIkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y_v3O9q_-vSOk25cOEjIkQ",
+        "review_count": 192,
+        "categories": [
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 5,
+        "coordinates": {
+            "latitude": 47.53842,
+            "longitude": -122.038077
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "145 NW Gilman Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Issaquah",
+            "zip_code": "98027",
+            "country": "US",
+            "state": "WA",
+            "display_address": [
+                "145 NW Gilman Blvd",
+                "Issaquah, WA 98027"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 23468.86167864913
+    },
+    {
+        "id": "ITjWLuOD5UZyPdhilcHCTQ",
+        "alias": "birrieria-la-santa-tacos-and-more-seatac",
+        "name": "Birrieria La Santa Tacos & More",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jp5PMgPu_cpVuliZNXg1TQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/birrieria-la-santa-tacos-and-more-seatac?adjust_creative=Y_v3O9q_-vSOk25cOEjIkQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Y_v3O9q_-vSOk25cOEjIkQ",
+        "review_count": 30,
+        "categories": [
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            },
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 47.43949888922508,
+            "longitude": -122.3240295584068
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "18205 Des Moines Memorial Dr",
+            "address2": "",
+            "address3": null,
+            "city": "SeaTac",
+            "zip_code": "98148",
+            "country": "US",
+            "state": "WA",
+            "display_address": [
+                "18205 Des Moines Memorial Dr",
+                "SeaTac, WA 98148"
+            ]
+        },
+        "phone": "+12062570764",
+        "display_phone": "(206) 257-0764",
+        "distance": 19443.411806927037
+    }
+]

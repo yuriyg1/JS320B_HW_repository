@@ -1,0 +1,16 @@
+
+button.floating-nav-profile-image {
+  border: none;
+  padding: 0;
+  background: none;
+}
+
+button.floating-nav-profile-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+button.floating-nav-profile-image:hover {
+  cursor: pointer;
+}

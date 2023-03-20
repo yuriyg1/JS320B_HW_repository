@@ -1,0 +1,95 @@
+.restaurant-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.5s;
+}
+
+.restaurant-card:hover {
+  transform: scale(1.05);
+}
+
+.restaurant-image {
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.restaurant-details {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.restaurant-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.restaurant-address {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.restaurant-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+  width: 100%;
+}
+
+.restaurant-rating {
+  display:flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+  
+.restaurant-rating svg {
+  color: #f2c94c;
+  margin-right: 5px;
+}
+  
+.restaurant-distance {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.favorite-icon {
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+  font-size: 32px;
+  color: #f44336;
+  cursor: pointer;
+}
+
+.favorite-icon:hover {
+  color: #f44336;
+}
+
+.restaurant-list{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+.leaflet-container {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .Body {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: calc(100vh - 95px);
+    margin: 10px 10px 10px 10px;
+  
+  }
+  
+  .Body__mapContainer {
+    width: 65%;
+    height: 100%;
+  }

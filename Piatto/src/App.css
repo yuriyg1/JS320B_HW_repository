@@ -1,0 +1,22 @@
+.Body {
+  display: flex;
+  justify-content: space-between;
+  width: 99%;
+  height: calc(100vh - 95px);
+  margin: 10px 10px 10px 10px;
+
+}
+
+.Body__listContainer {
+  width: 36%;
+  height: 100%;
+  overflow-y: scroll;
+  margin-right: 0%;
+}
+
+.Body__mapContainer {
+  width: 64%;
+  height: 100%;
+  margin-left: 0%;
+}
+
